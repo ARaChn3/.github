@@ -1,3 +1,4 @@
 <p align="center">
-    <img src="assets/banner.gif" width=1280px height=640px >
+    <img src="profile/assets/banner.gif">
 </p>
+
